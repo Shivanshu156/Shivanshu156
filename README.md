@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivanshu Verma</h1>
-<h4 align="justify">I am a seasoned professional with a robust background in Natural Language Processing (NLP), Reinforcement Learning, and generative Artificial Intelligence. I completed my undergraduate studies at IIT Delhi and recently earned my Master's in Computer Science from Arizona State University (ASU). I have two years of professional experience as a Full Stack Developer.</h4>
+<h4 align="justify">I am a seasoned professional with a robust background in Natural Language Processing (NLP), Reinforcement Learning, and Generative Artificial Intelligence. I completed my undergraduate studies at IIT Delhi and recently earned my Master's in Computer Science from Arizona State University (ASU). I have two years of professional experience as a Full Stack Developer.</h4>
 
 - 👯 I’m open for full-time ** Machine Learning, Generative AI and Software Engineering** positions.
 
