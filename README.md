@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivanshu156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanshu156/" height="30" width="40" /></a>
-  <a href="https://x.com/ver_shivanshu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="https://x.com/ver_shivanshu" height="30" width="40" /></a>
+  <a href="https://x.com/ver_shivanshu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="https://x.com/ver_shivanshu" height="30" width="40" /></a>
     <a href="https://scholar.google.com/citations?user=huOeftkAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="https://scholar.google.com/citations?user=huOeftkAAAAJ&hl=en" height="30" width="40" /></a>
 
 </p>
